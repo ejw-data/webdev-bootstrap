@@ -1,4 +1,4 @@
-Bootstrap/Resources/Output/*
+Bootstrap/Output/*
 Bootstrap/Resources/cities.csv
 Bootstrap/Resources/.ipynb_checkpoints
 Bootstrap/Resources/table_generation.ipynb
