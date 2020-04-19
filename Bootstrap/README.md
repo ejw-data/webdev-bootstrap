@@ -21,7 +21,7 @@
 * Bootstrap:  HTML, CSS, JS
 
 ### Meta
-    Credits:  Developed by Erin Wills<br>
-    License:  None<br>
+    Credits:  Developed by Erin Wills
+    License:  None
     Contributors:  None 
     
